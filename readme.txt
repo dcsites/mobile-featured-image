@@ -46,6 +46,8 @@ WordPress automatically adds a [srcset attribute](https://developer.mozilla.org/
 1. Upload the `mobile-featured-image` folder to your /wp-content/plugins/ directory
 2. Activate the plugin through the Plugins menu
 
+== Upgrade Notice ==
+
 == Changelog ==
 
 = 1.0 =
