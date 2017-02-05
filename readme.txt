@@ -1,6 +1,6 @@
 === Mobile Featured Image ===
 Contributors: ryanshoover, cousett
-Tags: featured image, thumbnail, mobile, srcset
+Tags: featured image, thumbnail, mobile, responsive, srcset
 Requires at least: 4.4
 Tested up to: 4.7.2
 Stable tag: 1.0
